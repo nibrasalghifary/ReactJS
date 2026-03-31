@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   const dataDiri = {
     nama: "Muhammad Nibras Alghifary", 
-    foto: "27. AZZAM ATMARADJA FATURROCHMAN-1.JPG", 
+    foto: "/27. AZZAM ATMARADJA FATURROCHMAN-1.JPG", 
     kelas: "T2F",
     prodi: "Teknologi Informasi",
     domisili: "Serang, Banten, Indonesia",
@@ -53,7 +53,7 @@ function App() {
                   {/* Kanan: Keterangan Universitas */}
                   <div className="hidden sm:flex items-center gap-2 cursor-pointer group mt-1 shrink-0">
                     <img 
-                      src="Logo_Universitas_Brawijaya.svg-removebg-preview.png" 
+                      src="/Logo_Universitas_Brawijaya.svg-removebg-preview.png" 
                       alt="Logo UB" 
                       className="w-8 h-8 rounded-sm object-contain"
                     />
