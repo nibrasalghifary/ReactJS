@@ -21,7 +21,8 @@ If you are developing a production application, we recommend using TypeScript wi
 Tugas Pemrograman Web - Semester 2.
 
 ### 🌐 Link Live Preview:
-Klik di sini: [https://proyek-profil-tim.vercel.app](https://proyek-profil-tim.vercel.app)
+Klik di sini: [https://proyek-profil-tim.vercel.app](https://proyek-profil-tim.vercel.app) Profile Muhammad Nibras Al-Ghifary
+Klik di sini: [http://localhost:5173/]. Profile Sultan Zaki Adi Wijaya
 
 ---
 **Tech Stack:**
